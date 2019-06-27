@@ -1,41 +1,41 @@
-Topic-Id,Sub-Topic-Id,Sub-Topic-Name
+topic-id,sub-topic-id,sub-topic-name
 10001,100011,string
 10001,100012,hashcode
-10001,100013,ArrayList
+10001,100013,arraylist
 10001,100014,hashmap
-10001,100015,MultiThreading
-10001,100016,Generics
-10002,100021,Java 1.8
+10001,100015,multithreading
+10001,100016,generics
+10002,100021,java 1.8
 10002,100022,lambda
-10002,100023,Media
-10002,100024,Annotations
-10003,100031,Spring
-10003,100032,Struts
-10003,100033,NodeJS
-10003,100034,Redux
-10003,100035,Hibernate
-10004,100041,Abstract
-10004,100042,Factory
+10002,100023,media
+10002,100024,annotations
+10003,100031,spring
+10003,100032,struts
+10003,100033,nodejs
+10003,100034,redux
+10003,100035,hibernate
+10004,100041,abstract
+10004,100042,factory
 10004,100043,builder
-10005,100051,NodeJS
-10005,100052,ReactJS
-10005,100053,BootstrapJS
-10005,100054,Redux
-10005,100055,AngularJS
-10005,100056,Django
-10006,100061,Join
-10006,100062,Collection
-10006,100063,PlSQL
-10006,100064,Exception Handling
-10006,100065,Analytic Functions
-10007,100071,Cost of Query
-10007,100072,Perfromance Tuning
-10010,100101,Unix scripting
-10011,100111,Teamcity
-10011,100112,Udeploy
+10005,100051,nodejs
+10005,100052,reactjs
+10005,100053,bootstrapjs
+10005,100054,redux
+10005,100055,angularjs
+10005,100056,django
+10006,100061,join
+10006,100062,collection
+10006,100063,plsql
+10006,100064,exception handling
+10006,100065,analytic functions
+10007,100071,cost of query
+10007,100072,perfromance tuning
+10010,100101,unix scripting
+10011,100111,teamcity
+10011,100112,udeploy
 10011,100113,github
 10011,100114,svn
-10012,100121,Big Data
-10012,100122,Tableou
-10012,100123,Hadoop
-10012,100124,Kafka
+10012,100121,big data
+10012,100122,tableou
+10012,100123,hadoop
+10012,100124,kafka
