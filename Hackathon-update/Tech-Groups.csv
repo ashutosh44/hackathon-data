@@ -1,13 +1,13 @@
-Topic-Id,Name
-10001,Core-Java
-10002,Advanced Java
-10003,Frameworks
-10004,Design Pattern
-10005,UI
-10006,Oracle
-10007,Performance Tuning
-10008,Sybase
-10009,Mongo DB
-10010,Unix
-10011,DevOps
-10012,Data Analytics
+topic-id,name
+10001,core-java
+10002,advanced java
+10003,frameworks
+10004,design pattern
+10005,ui
+10006,oracle
+10007,performance tuning
+10008,sybase
+10009,mongo db
+10010,unix
+10011,devops
+10012,data analytics
