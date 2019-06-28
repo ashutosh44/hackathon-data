@@ -1,369 +1,377 @@
-topic_id,topic_name,user_collab_id,
-10001,core-java,101,101
-10001,core-java,102,
-10001,core-java,103,
-10001,core-java,104,
-10001,core-java,105,
-10001,core-java,106,
-10001,core-java,107,
-10001,core-java,108,
-10001,core-java,109,
-10001,core-java,110,
-10001,core-java,111,
-10001,core-java,112,
-10001,core-java,113,
-10001,core-java,114,
-10001,core-java,115,
-10001,core-java,116,
-10001,core-java,117,
-10001,core-java,118,
-10001,core-java,119,
-10001,core-java,120,
-10001,core-java,121,
-10001,core-java,122,
-10001,core-java,123,
-10001,core-java,124,
-10001,core-java,125,
-10001,core-java,101,
-10001,core-java,102,
-10001,core-java,103,
-10001,core-java,104,
-10001,core-java,105,
-10001,core-java,106,
-10001,core-java,107,
-10001,core-java,108,
-10001,core-java,109,
-10001,core-java,110,
-10001,core-java,111,
-10001,core-java,112,
-10001,core-java,113,
-10001,core-java,114,
-10001,core-java,115,
-10001,core-java,116,
-10001,core-java,117,
-10001,core-java,118,
-10001,core-java,119,
-10001,core-java,120,
-10001,core-java,121,
-10001,core-java,122,
-10001,core-java,123,
-10001,core-java,124,
-10001,core-java,125,
-10001,core-java,101,
-10001,core-java,102,
-10001,core-java,103,
-10001,core-java,104,
-10001,core-java,105,
-10001,core-java,106,
-10001,core-java,107,
-10001,core-java,108,
-10001,core-java,109,
-10001,core-java,110,
-10001,core-java,111,
-10001,core-java,112,
-10001,core-java,113,
-10001,core-java,114,
-10001,core-java,115,
-10001,core-java,116,
-10001,core-java,117,
-10001,core-java,118,
-10001,core-java,119,
-10001,core-java,120,
-10001,core-java,121,
-10001,core-java,122,
-10001,core-java,123,
-10001,core-java,124,
-10001,core-java,125,
-10001,core-java,101,
-10001,core-java,102,
-10001,core-java,103,
-10001,core-java,104,
-10001,core-java,105,
-10001,core-java,106,
-10001,core-java,107,
-10001,core-java,108,
-10001,core-java,109,
-10001,core-java,110,
-10001,core-java,111,
-10001,core-java,112,
-10001,core-java,113,
-10001,core-java,114,
-10001,core-java,115,
-10001,core-java,116,
-10001,core-java,117,
-10001,core-java,118,
-10001,core-java,119,
-10001,core-java,120,
-10001,core-java,121,
-10001,core-java,122,
-10001,core-java,123,
-10001,core-java,124,
-10001,core-java,125,
-10002,advanced java,101,
-10002,advanced java,102,
-10002,advanced java,103,
-10002,advanced java,104,
-10002,advanced java,105,
-10002,advanced java,106,
-10002,advanced java,107,
-10002,advanced java,108,
-10002,advanced java,109,
-10002,advanced java,110,
-10002,advanced java,111,
-10002,advanced java,112,
-10002,advanced java,113,
-10002,advanced java,114,
-10002,advanced java,101,
-10002,advanced java,102,
-10002,advanced java,103,
-10002,advanced java,104,
-10002,advanced java,105,
-10002,advanced java,106,
-10002,advanced java,107,
-10002,advanced java,108,
-10002,advanced java,109,
-10002,advanced java,110,
-10002,advanced java,111,
-10002,advanced java,112,
-10002,advanced java,113,
-10002,advanced java,114,
-10002,advanced java,115,
-10002,advanced java,116,
-10002,advanced java,117,
-10002,advanced java,118,
-10002,advanced java,119,
-10002,advanced java,120,
-10002,advanced java,121,
-10002,advanced java,122,
-10002,advanced java,123,
-10002,advanced java,124,
-10002,advanced java,125,
-10002,advanced java,101,
-10002,advanced java,102,
-10002,advanced java,101,
-10002,advanced java,102,
-10002,advanced java,103,
-10002,advanced java,104,
-10002,advanced java,105,
-10002,advanced java,106,
-10002,advanced java,107,
-10002,advanced java,108,
-10002,advanced java,109,
-10002,advanced java,110,
-10002,advanced java,111,
-10002,advanced java,112,
-10002,advanced java,113,
-10002,advanced java,114,
-10002,advanced java,115,
-10002,advanced java,116,
-10002,advanced java,117,
-10002,advanced java,118,
-10002,advanced java,119,
-10002,advanced java,120,
-10002,advanced java,121,
-10002,advanced java,122,
-10002,advanced java,123,
-10002,advanced java,124,
-10002,advanced java,125,
-10003,frameworks,110,
-10003,frameworks,111,
-10003,frameworks,112,
-10003,frameworks,113,
-10003,frameworks,114,
-10003,frameworks,115,
-10003,frameworks,104,
-10003,frameworks,105,
-10003,frameworks,106,
-10003,frameworks,107,
-10003,frameworks,108,
-10003,frameworks,109,
-10003,frameworks,110,
-10003,frameworks,111,
-10003,frameworks,112,
-10003,frameworks,113,
-10003,frameworks,114,
-10003,frameworks,115,
-10003,frameworks,116,
-10003,frameworks,117,
-10003,frameworks,118,
-10003,frameworks,119,
-10003,frameworks,120,
-10003,frameworks,122,
-10003,frameworks,123,
-10003,frameworks,124,
-10003,frameworks,125,
-10003,frameworks,114,
-10003,frameworks,115,
-10003,frameworks,110,
-10003,frameworks,111,
-10004,design pattern,102,
-10004,design pattern,103,
-10004,design pattern,104,
-10004,design pattern,105,
-10004,design pattern,106,
-10004,design pattern,107,
-10004,design pattern,108,
-10004,design pattern,118,
-10004,design pattern,119,
-10004,design pattern,120,
-10004,design pattern,121,
-10004,design pattern,122,
-10005,ui,111,
-10005,ui,112,
-10005,ui,113,
-10005,ui,114,
-10005,ui,117,
-10005,ui,118,
-10005,ui,119,
-10005,ui,120,
-10005,ui,121,
-10005,ui,122,
-10005,ui,101,
-10005,ui,102,
-10005,ui,103,
-10005,ui,104,
-10005,ui,105,
-10005,ui,106,
-10005,ui,121,
-10005,ui,122,
-10005,ui,123,
-10005,ui,112,
-10005,ui,113,
-10005,ui,114,
-10005,ui,101,
-10006,oracle,101,
-10006,oracle,102,
-10006,oracle,103,
-10006,oracle,104,
-10006,oracle,105,
-10006,oracle,106,
-10006,oracle,107,
-10006,oracle,108,
-10006,oracle,109,
-10006,oracle,110,
-10006,oracle,111,
-10006,oracle,112,
-10006,oracle,113,
-10006,oracle,114,
-10006,oracle,115,
-10006,oracle,116,
-10006,oracle,117,
-10006,oracle,118,
-10006,oracle,119,
-10006,oracle,120,
-10006,oracle,121,
-10006,oracle,122,
-10006,oracle,123,
-10006,oracle,124,
-10006,oracle,125,
-10006,oracle,101,
-10006,oracle,102,
-10006,oracle,103,
-10006,oracle,104,
-10006,oracle,105,
-10006,oracle,106,
-10006,oracle,107,
-10006,oracle,108,
-10006,oracle,109,
-10006,oracle,110,
-10006,oracle,111,
-10006,oracle,112,
-10006,oracle,113,
-10006,oracle,114,
-10006,oracle,104,
-10006,oracle,105,
-10006,oracle,106,
-10006,oracle,107,
-10006,oracle,108,
-10006,oracle,109,
-10006,oracle,102,
-10006,oracle,103,
-10006,oracle,104,
-10006,oracle,105,
-10006,oracle,106,
-10006,oracle,107,
-10006,oracle,108,
-10006,oracle,109,
-10006,oracle,110,
-10006,oracle,111,
-10007,performance tuning,113,
-10007,performance tuning,114,
-10007,performance tuning,112,
-10007,performance tuning,113,
-10007,performance tuning,114,
-10007,performance tuning,115,
-10010,unix,101,
-10010,unix,102,
-10011,devops,101,
-10011,devops,102,
-10011,devops,103,
-10011,devops,104,
-10011,devops,105,
-10011,devops,106,
-10011,devops,107,
-10011,devops,108,
-10011,devops,109,
-10011,devops,103,
-10011,devops,104,
-10011,devops,105,
-10011,devops,106,
-10011,devops,107,
-10011,devops,101,
-10011,devops,102,
-10011,devops,103,
-10011,devops,104,
-10011,devops,105,
-10011,devops,106,
-10011,devops,107,
-10011,devops,108,
-10011,devops,109,
-10011,devops,110,
-10011,devops,111,
-10011,devops,112,
-10011,devops,113,
-10011,devops,114,
-10011,devops,115,
-10011,devops,116,
-10011,devops,117,
-10011,devops,118,
-10011,devops,119,
-10011,devops,120,
-10011,devops,121,
-10011,devops,122,
-10011,devops,123,
-10011,devops,124,
-10011,devops,125,
-10011,devops,101,
-10011,devops,102,
-10011,devops,103,
-10011,devops,104,
-10011,devops,105,
-10011,devops,106,
-10011,devops,107,
-10011,devops,108,
-10011,devops,109,
-10011,devops,110,
-10011,devops,111,
-10011,devops,112,
-10011,devops,113,
-10011,devops,114,
-10011,devops,115,
-10011,devops,116,
-10011,devops,117,
-10011,devops,118,
-10011,devops,119,
-10011,devops,120,
-10011,devops,121,
-10011,devops,122,
-10011,devops,123,
-10011,devops,124,
-10011,devops,125,
-10012,data analytics,110,
-10012,data analytics,111,
-10012,data analytics,112,
-10012,data analytics,119,
-10012,data analytics,120,
-10012,data analytics,102,
-10012,data analytics,103,
-10012,data analytics,124,
-10012,data analytics,125,
+topic_id,topic_name,user_collab_id
+10001,core-java,101
+10001,core-java,102
+10001,core-java,103
+10001,core-java,104
+10001,core-java,105
+10001,core-java,106
+10001,core-java,107
+10001,core-java,108
+10001,core-java,109
+10001,core-java,110
+10001,core-java,111
+10001,core-java,112
+10001,core-java,113
+10001,core-java,114
+10001,core-java,115
+10001,core-java,116
+10001,core-java,117
+10001,core-java,118
+10001,core-java,119
+10001,core-java,120
+10001,core-java,121
+10001,core-java,122
+10001,core-java,123
+10001,core-java,124
+10001,core-java,125
+10001,core-java,101
+10001,core-java,102
+10001,core-java,103
+10001,core-java,104
+10001,core-java,105
+10001,core-java,106
+10001,core-java,107
+10001,core-java,108
+10001,core-java,109
+10001,core-java,110
+10001,core-java,111
+10001,core-java,112
+10001,core-java,113
+10001,core-java,114
+10001,core-java,115
+10001,core-java,116
+10001,core-java,117
+10001,core-java,118
+10001,core-java,119
+10001,core-java,120
+10001,core-java,121
+10001,core-java,122
+10001,core-java,123
+10001,core-java,124
+10001,core-java,125
+10001,core-java,101
+10001,core-java,102
+10001,core-java,103
+10001,core-java,104
+10001,core-java,105
+10001,core-java,106
+10001,core-java,107
+10001,core-java,108
+10001,core-java,109
+10001,core-java,110
+10001,core-java,111
+10001,core-java,112
+10001,core-java,113
+10001,core-java,114
+10001,core-java,115
+10001,core-java,116
+10001,core-java,117
+10001,core-java,118
+10001,core-java,119
+10001,core-java,120
+10001,core-java,121
+10001,core-java,122
+10001,core-java,123
+10001,core-java,124
+10001,core-java,125
+10001,core-java,101
+10001,core-java,102
+10001,core-java,103
+10001,core-java,104
+10001,core-java,105
+10001,core-java,106
+10001,core-java,107
+10001,core-java,108
+10001,core-java,109
+10001,core-java,110
+10001,core-java,111
+10001,core-java,112
+10001,core-java,113
+10001,core-java,114
+10001,core-java,115
+10001,core-java,116
+10001,core-java,117
+10001,core-java,118
+10001,core-java,119
+10001,core-java,120
+10001,core-java,121
+10001,core-java,122
+10001,core-java,123
+10001,core-java,124
+10001,core-java,125
+10002,advanced java,101
+10002,advanced java,102
+10002,advanced java,103
+10002,advanced java,104
+10002,advanced java,105
+10002,advanced java,106
+10002,advanced java,107
+10002,advanced java,108
+10002,advanced java,109
+10002,advanced java,110
+10002,advanced java,111
+10002,advanced java,112
+10002,advanced java,113
+10002,advanced java,114
+10002,advanced java,101
+10002,advanced java,102
+10002,advanced java,103
+10002,advanced java,104
+10002,advanced java,105
+10002,advanced java,106
+10002,advanced java,107
+10002,advanced java,108
+10002,advanced java,109
+10002,advanced java,110
+10002,advanced java,111
+10002,advanced java,112
+10002,advanced java,113
+10002,advanced java,114
+10002,advanced java,115
+10002,advanced java,116
+10002,advanced java,117
+10002,advanced java,118
+10002,advanced java,119
+10002,advanced java,120
+10002,advanced java,121
+10002,advanced java,122
+10002,advanced java,123
+10002,advanced java,124
+10002,advanced java,125
+10002,advanced java,101
+10002,advanced java,102
+10002,advanced java,101
+10002,advanced java,102
+10002,advanced java,103
+10002,advanced java,104
+10002,advanced java,105
+10002,advanced java,106
+10002,advanced java,107
+10002,advanced java,108
+10002,advanced java,109
+10002,advanced java,110
+10002,advanced java,111
+10002,advanced java,112
+10002,advanced java,113
+10002,advanced java,114
+10002,advanced java,115
+10002,advanced java,116
+10002,advanced java,117
+10002,advanced java,118
+10002,advanced java,119
+10002,advanced java,120
+10002,advanced java,121
+10002,advanced java,122
+10002,advanced java,123
+10002,advanced java,124
+10002,advanced java,125
+10003,frameworks,110
+10003,frameworks,111
+10003,frameworks,112
+10003,frameworks,113
+10003,frameworks,114
+10003,frameworks,115
+10003,frameworks,104
+10003,frameworks,105
+10003,frameworks,106
+10003,frameworks,107
+10003,frameworks,108
+10003,frameworks,109
+10003,frameworks,110
+10003,frameworks,111
+10003,frameworks,112
+10003,frameworks,113
+10003,frameworks,114
+10003,frameworks,115
+10003,frameworks,116
+10003,frameworks,117
+10003,frameworks,118
+10003,frameworks,119
+10003,frameworks,120
+10003,frameworks,122
+10003,frameworks,123
+10003,frameworks,124
+10003,frameworks,125
+10003,frameworks,114
+10003,frameworks,115
+10003,frameworks,110
+10003,frameworks,111
+10004,design pattern,102
+10004,design pattern,103
+10004,design pattern,104
+10004,design pattern,105
+10004,design pattern,106
+10004,design pattern,107
+10004,design pattern,108
+10004,design pattern,118
+10004,design pattern,119
+10004,design pattern,120
+10004,design pattern,121
+10004,design pattern,122
+10005,ui,111
+10005,ui,112
+10005,ui,113
+10005,ui,114
+10005,ui,117
+10005,ui,118
+10005,ui,119
+10005,ui,120
+10005,ui,121
+10005,ui,122
+10005,ui,101
+10005,ui,102
+10005,ui,103
+10005,ui,104
+10005,ui,105
+10005,ui,106
+10005,ui,121
+10005,ui,122
+10005,ui,123
+10005,ui,112
+10005,ui,113
+10005,ui,114
+10005,ui,101
+10006,oracle,101
+10006,oracle,102
+10006,oracle,103
+10006,oracle,104
+10006,oracle,105
+10006,oracle,106
+10006,oracle,107
+10006,oracle,108
+10006,oracle,109
+10006,oracle,110
+10006,oracle,111
+10006,oracle,112
+10006,oracle,113
+10006,oracle,114
+10006,oracle,115
+10006,oracle,116
+10006,oracle,117
+10006,oracle,118
+10006,oracle,119
+10006,oracle,120
+10006,oracle,121
+10006,oracle,122
+10006,oracle,123
+10006,oracle,124
+10006,oracle,125
+10006,oracle,101
+10006,oracle,102
+10006,oracle,103
+10006,oracle,104
+10006,oracle,105
+10006,oracle,106
+10006,oracle,107
+10006,oracle,108
+10006,oracle,109
+10006,oracle,110
+10006,oracle,111
+10006,oracle,112
+10006,oracle,113
+10006,oracle,114
+10006,oracle,104
+10006,oracle,105
+10006,oracle,106
+10006,oracle,107
+10006,oracle,108
+10006,oracle,109
+10006,oracle,102
+10006,oracle,103
+10006,oracle,104
+10006,oracle,105
+10006,oracle,106
+10006,oracle,107
+10006,oracle,108
+10006,oracle,109
+10006,oracle,110
+10006,oracle,111
+10007,performance tuning,113
+10007,performance tuning,114
+10007,performance tuning,112
+10007,performance tuning,113
+10007,performance tuning,114
+10007,performance tuning,115
+10010,unix,101
+10010,unix,102
+10011,devops,101
+10011,devops,102
+10011,devops,103
+10011,devops,104
+10011,devops,105
+10011,devops,106
+10011,devops,107
+10011,devops,108
+10011,devops,109
+10011,devops,103
+10011,devops,104
+10011,devops,105
+10011,devops,106
+10011,devops,107
+10011,devops,101
+10011,devops,102
+10011,devops,103
+10011,devops,104
+10011,devops,105
+10011,devops,106
+10011,devops,107
+10011,devops,108
+10011,devops,109
+10011,devops,110
+10011,devops,111
+10011,devops,112
+10011,devops,113
+10011,devops,114
+10011,devops,115
+10011,devops,116
+10011,devops,117
+10011,devops,118
+10011,devops,119
+10011,devops,120
+10011,devops,121
+10011,devops,122
+10011,devops,123
+10011,devops,124
+10011,devops,125
+10011,devops,101
+10011,devops,102
+10011,devops,103
+10011,devops,104
+10011,devops,105
+10011,devops,106
+10011,devops,107
+10011,devops,108
+10011,devops,109
+10011,devops,110
+10011,devops,111
+10011,devops,112
+10011,devops,113
+10011,devops,114
+10011,devops,115
+10011,devops,116
+10011,devops,117
+10011,devops,118
+10011,devops,119
+10011,devops,120
+10011,devops,121
+10011,devops,122
+10011,devops,123
+10011,devops,124
+10011,devops,125
+10012,data analytics,110
+10012,data analytics,111
+10012,data analytics,112
+10012,data analytics,119
+10012,data analytics,120
+10012,data analytics,102
+10012,data analytics,103
+10012,data analytics,124
+10012,data analytics,125
+10013,Neo,126
+10013,Neo,127
+10013,Neo,128
+10013,Neo,129
+10013,Neo,130
+10012,data analytics,126
+10012,data analytics,127
+10012,data analytics,128
